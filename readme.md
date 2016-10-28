@@ -4,7 +4,7 @@ This isn't a serious project, just something high quality enough that I feel cou
 * t - the parametric step
 * c - the frame number constant
 
- The options for the renderer such as the window size and parametric step are defined in `userfunctions.h`. Simply recompile using `make` every time you make a change to the function.
+The options for the renderer such as the window size and parametric step are defined in `userfunctions.h`. Simply recompile using `make` every time you make a change to the function.
 
 Requires:
 * ncurses
